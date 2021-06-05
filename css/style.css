@@ -1,0 +1,408 @@
+@import url("https://fonts.googleapis.com/css2?family=Handlee&family=Open+Sans+Condensed:wght@300&display=swap");
+.img-prod1 {
+  background-image: url(../img2/cajamarino.jpg);
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: space-between;
+  margin: 2em;
+  border-radius: 20px;
+  filter: grayscale(100%);
+  position: relative; }
+  .img-prod1:hover {
+    transition: all 3s;
+    transform: scale(1.5);
+    filter: grayscale(0%); }
+
+.img-prod2 {
+  background-image: url(../img2/cajaminnie.jpg);
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: space-between;
+  margin: 2em;
+  border-radius: 20px;
+  filter: grayscale(100%);
+  position: relative; }
+  .img-prod2:hover {
+    transition: all 3s;
+    transform: scale(1.5);
+    filter: grayscale(0%); }
+
+.img-prod3 {
+  background-image: url(../img2/cajaunicornio.jpg);
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: space-between;
+  margin: 2em;
+  border-radius: 20px;
+  filter: grayscale(100%);
+  position: relative; }
+  .img-prod3:hover {
+    transition: all 3s;
+    transform: scale(1.5);
+    filter: grayscale(0%); }
+
+.img-prod4 {
+  background-image: url(../img2/conos.jpg);
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: space-between;
+  margin: 2em;
+  border-radius: 20px;
+  filter: grayscale(100%);
+  position: relative; }
+  .img-prod4:hover {
+    transition: all 3s;
+    transform: scale(1.5);
+    filter: grayscale(0%); }
+
+.img-prod5 {
+  background-image: url(../img2/stickers.jpg);
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: space-between;
+  margin: 2em;
+  border-radius: 20px;
+  filter: grayscale(100%);
+  position: relative; }
+  .img-prod5:hover {
+    transition: all 3s;
+    transform: scale(1.5);
+    filter: grayscale(0%); }
+
+.img-prod6 {
+  background-image: url(../img2/tarjeta15.jpg);
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: space-between;
+  margin: 2em;
+  border-radius: 20px;
+  filter: grayscale(100%);
+  position: relative; }
+  .img-prod6:hover {
+    transition: all 3s;
+    transform: scale(1.5);
+    filter: grayscale(0%); }
+
+.img-prod7 {
+  background-image: url(../img2/tarjetabautismo.jpg);
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: space-between;
+  margin: 2em;
+  border-radius: 20px;
+  filter: grayscale(100%);
+  position: relative; }
+  .img-prod7:hover {
+    transition: all 3s;
+    transform: scale(1.5);
+    filter: grayscale(0%); }
+
+.img-prod8 {
+  background-image: url(../img2/tarjetacasamiento.jpg);
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: space-between;
+  margin: 2em;
+  border-radius: 20px;
+  filter: grayscale(100%);
+  position: relative; }
+  .img-prod8:hover {
+    transition: all 3s;
+    transform: scale(1.5);
+    filter: grayscale(0%); }
+
+.img-prod9 {
+  background-image: url(../img2/velasbautismo.jpg);
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: space-between;
+  margin: 2em;
+  border-radius: 20px;
+  filter: grayscale(100%);
+  position: relative; }
+  .img-prod9:hover {
+    transition: all 3s;
+    transform: scale(1.5);
+    filter: grayscale(0%); }
+
+.img-prod10 {
+  background-image: url(../img2/velascomunion.jpg);
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: space-between;
+  margin: 2em;
+  border-radius: 20px;
+  filter: grayscale(100%);
+  position: relative; }
+  .img-prod10:hover {
+    transition: all 3s;
+    transform: scale(1.5);
+    filter: grayscale(0%); }
+
+.img-prod11 {
+  background-image: url(../img2/velasprimerano.jpg);
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: space-between;
+  margin: 2em;
+  border-radius: 20px;
+  filter: grayscale(100%);
+  position: relative; }
+  .img-prod11:hover {
+    transition: all 3s;
+    transform: scale(1.5);
+    filter: grayscale(0%); }
+
+.img-prod12 {
+  background-image: url(../img2/tarjetabautismo2.jpg);
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: space-between;
+  margin: 2em;
+  border-radius: 20px;
+  filter: grayscale(100%);
+  position: relative; }
+  .img-prod12:hover {
+    transition: all 3s;
+    transform: scale(1.5);
+    filter: grayscale(0%); }
+
+* {
+  color: inherit;
+  text-decoration: none;
+  list-style-type: none;
+  box-sizing: border-box; }
+
+.logo {
+  width: 30%;
+  height: 30%;
+  padding: 1em;
+  position: relative;
+  top: 35%;
+  left: 35%;
+  margin: -0.5%; }
+
+h3 {
+  font-size: 25px;
+  color: #636262;
+  font-family: "Open Sans Condensed", sans-serif;
+  font-weight: bolder; }
+
+li a {
+  align-content: space-between;
+  text-align: right;
+  margin: 10px;
+  font-size: 15pt;
+  color: #636262; }
+
+li a:hover {
+  color: #08ceb2 !important;
+  transition: all .5s ease-in-out; }
+
+h2 {
+  color: #08ceb2;
+  font-family: "Handlee", sans-serif, bold;
+  width: 80px;
+  font-weight: bolder; }
+
+a {
+  color: #636262;
+  font-family: "Open Sans Condensed", sans-serif;
+  font-weight: bold;
+  font-size: 100;
+  list-style-type: square; }
+
+header img {
+  width: 100%;
+  height: 50%; }
+
+.card img {
+  width: 95%;
+  height: 50%;
+  border-radius: 20px;
+  margin: 8px; }
+
+.card {
+  display: inline-block;
+  width: 100%;
+  justify-content: center;
+  padding: 2em;
+  margin: 1.38em; }
+
+.card-body {
+  padding: 1.6em; }
+
+.card-title {
+  color: #08ceb2;
+  font-family: "Handlee", sans-serif, bold;
+  font-size: x-large; }
+
+.boton-1 {
+  color: #08ceb2; }
+
+main {
+  padding: 1.5em; }
+
+.contacto {
+  padding: 1.5em; }
+
+.carousel-item {
+  max-width: 100%;
+  height: auto; }
+
+.carousel-inner {
+  border-radius: 20px; }
+
+p, label {
+  color: #636262;
+  font-family: "Open Sans Condensed", sans-serif; }
+
+.grilla {
+  display: grid;
+  grid-gap: 30px;
+  grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
+  grid-auto-rows: 420px; }
+
+.img-prod1 {
+  display: flex;
+  justify-content: space-between;
+  margin: 2em; }
+
+.img-prod2 {
+  display: flex;
+  justify-content: space-between;
+  margin: 2em; }
+
+.img-prod3 {
+  display: flex;
+  justify-content: space-between;
+  margin: 2em; }
+
+.img-prod4 {
+  display: flex;
+  justify-content: space-between;
+  margin: 2em; }
+
+.img-prod5 {
+  display: flex;
+  justify-content: space-between;
+  margin: 2em; }
+
+.img-prod6 {
+  display: flex;
+  justify-content: space-between;
+  margin: 2em; }
+
+.img-prod7 {
+  display: flex;
+  justify-content: space-between;
+  margin: 2em; }
+
+.img-prod8 {
+  display: flex;
+  justify-content: space-between;
+  margin: 2em; }
+
+.img-prod9 {
+  display: flex;
+  justify-content: space-between;
+  margin: 2em; }
+
+.img-prod10 {
+  display: flex;
+  justify-content: space-between;
+  margin: 2em; }
+
+.img-prod11 {
+  display: flex;
+  justify-content: space-between;
+  margin: 2em; }
+
+.img-prod12 {
+  display: flex;
+  justify-content: space-between;
+  margin: 2em; }
+
+textarea {
+  width: 400px;
+  height: 200px;
+  border-radius: 10px;
+  background: #08ceb2;
+  border: none; }
+
+.cajanombre {
+  width: 400px;
+  height: 30px;
+  border-radius: 10px;
+  background: #08ceb2;
+  border: none; }
+
+.cajaemail {
+  width: 400px;
+  height: 30px;
+  border-radius: 10px;
+  background: #08ceb2;
+  border: none; }
+
+.boton {
+  width: 200px;
+  height: 30px;
+  border-radius: 10px;
+  background: #08ceb2;
+  border: none;
+  color: #636262;
+  font-family: "Open Sans Condensed", sans-serif; }
+
+.mapa {
+  float: right;
+  padding: 1em;
+  margin: 3em;
+  bottom: 2em; }
+
+h4 {
+  font-family: "Handlee", sans-serif;
+  font-size: 18px;
+  text-align: center; }
+
+.presentacion {
+  padding: 2em;
+  margin: 1em;
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 18px; }
+
+footer {
+  background: linear-gradient(to bottom, white, #08ceb2);
+  padding: 10px; }
+
+.contactate {
+  text-align: right;
+  margin: 10px; }
+
+.seguinos {
+  text-align: left;
+  margin: 10px;
+  float: left; }
+
+.redes {
+  width: 5%;
+  height: 5%;
+  margin-right: 10px; }
+
+@media all and (max-width: 989px) {
+  .logo {
+    display: none; }
+  .navbar-brand {
+    background: url(./../img/logo.png) center/contain no-repeat;
+    width: 200px;
+    height: 100px; }
+  footer {
+    display: flex;
+    justify-content: space-between; }
+  .redes {
+    width: 25%;
+    height: 30%; } }
+
+@media all and (min-width: 1024px) {
+  .grilla {
+    grid-template-columns: repeat(3, 3fr);
+    grid-auto-rows: 420px; } }
